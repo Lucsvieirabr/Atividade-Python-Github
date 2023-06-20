@@ -3,6 +3,11 @@
 * Curso: Ciência da Computação Disciplina: Introdução a Ciência da Computação          
 * Professor: Felipe Viel Avaliação – Linguagem Python            
 * Alunos: Lucas Vieira da Silva (8065594), Rhichyllie Baptista Stefen (6614620)
+* Relação dos Arquivos desse repositório:
+   * Anotações_Tutorial_Python_Introdução.ipynb --> Anotações da Aula
+   * Atividade_CNN.ipynb --> Código da Atividade prática de "Comentar o código" ( Parte 1 do Trabalho)
+   * Aplicabilidade Python.pdf --> Texto em formato de Redação acerca da Aplicabilidade do Python no mercado de trabalho (Parte 2 do Trabalho)
+
                   
 Este código é um exemplo de treinamento de uma rede neural convolucional simples
 (CNN) para classificar imagens CIFAR. Com a API Keras Sequential, você pode construir e
